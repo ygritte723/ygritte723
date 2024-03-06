@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm Zhong Xinliu! 👋
+### Hi there, I'm Ygritte! 👋
 
 🎓 **Engineering Enthusiast** at NUS & former ZJUer, revolutionizing **AI & MedTech**.
 
