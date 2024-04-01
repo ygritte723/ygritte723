@@ -16,17 +16,9 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Ygritte! 👋
 
-🎓 **Engineering Enthusiast** at NUS & former ZJUer, revolutionizing **AI & MedTech**.
+🎓 **Engineering Enthusiast** at NUS & former ZJUer, revolutionizing **MedTech**.
 
-🔬 **Professional Journey**: Research Assistant Intern at NHCS, ex-Software Developer at H3Dynamics.
-
-💻 **Tech Arsenal**: Proficient in Python 🐍, Java ☕, and Machine Learning 🤖.
-
-🔥 **Current Focus**: Integrating AI with healthcare through LLMs, Computer Vision, and GANs.
-
-🚀 **Aspirations**: Aiming to lead and innovate in AI for healthcare.
-
-📚 **Continual Learning**: Immersed in AI/CS/DS/Software developments.
+🔬 **Professional Journey**: Research Assistant Intern at NHCS.
 
 👯 **Let's Collaborate**: Keen on co-authoring impactful research papers.
 
