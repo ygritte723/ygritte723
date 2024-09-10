@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Ygritte! 👋
 
-🎓 **Engineering Enthusiast** at NUS & former ZJUer, revolutionizing **MedTech**.
+🎓 **Engineering Enthusiast** at Emory & former NUSer & former ZJUer, revolutionizing **MedTech**.
 
-🔬 **Professional Journey**: Research Assistant Intern at NHCS.
+🔬 **Professional Journey**: Former Research Assistant Intern at NHCS; Former Software Engineer at H3Dynamics.
 
 👯 **Let's Collaborate**: Keen on co-authoring impactful research papers.
 
